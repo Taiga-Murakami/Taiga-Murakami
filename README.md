@@ -10,16 +10,16 @@ My work combines engineering implementation with research on how
 
 ---
 
-## Fields
+# Fields
 
-### Primary Field: **Mechanical Engineering**
+### **Primary Field**: Mechanical Engineering
 
 Focus areas:
 - Robotics and automation
 - Control systems
 - Engineering systems design
 
-### Secondary Field: **Innovation Economics / Talent Allocation**
+### **Secondary Field**: Innovation Economics / Talent Allocation
 
 Research interests:
 - Technological capability of nations
