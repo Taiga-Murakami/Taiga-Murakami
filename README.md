@@ -2,11 +2,9 @@
 
 **Engineering × Innovation Systems × State Capacity**
 
-Mechanical engineering student interested in the relationship between  
-**technology, talent allocation, and national innovation capacity**.
+Mechanical engineering student interested in the relationship between  **technology, talent allocation, and national innovation capacity**.
 
-My work combines engineering implementation with research on how  
-**elite human capital structures influence technological competitiveness.**
+My work combines engineering implementation with research on how **elite human capital structures influence technological competitiveness.**
 
 ---
 
@@ -17,7 +15,7 @@ My work combines engineering implementation with research on how
 Focus areas:
 - Robotics and automation
 - Control systems
-- Engineering systems design
+- Fluid Dynamics and simulation (CFE)
 
 ### **Secondary Field**: Innovation Economics / Talent Allocation
 
@@ -30,10 +28,10 @@ Research interests:
 
 # Research
 ## Mechanical Enginerring
+Hasn't started yet but interested in robot control or Fuluid dynamics simulation.
 
 ## Economics
-My research focuses on how the **career allocation of top human capital**  
-affects long-term national technological capability.
+My research focuses on how the **career allocation of top human capital** affects long-term national technological capability.
 
 Key themes include:
 
@@ -53,12 +51,14 @@ Current activities include:
 - Home-scale farming experiments
 - Observing terrain and operational constraints in Japanese agriculture
 - Exploring automation concepts for small and irregular farmland
+- Interested in utilizing abandoned farmland especially in mountainous area
 
 ---
 
 ### Education System Development
 
 Development of tools to improve educational operations.
+Currently chief engineer of projects at my clam-school.
 
 Main components:
 - Curriculum and schedule management systems
@@ -69,9 +69,11 @@ Main components:
 ## Technical Skills
 
 - Python
+- javascript
 - Data analysis
 - Automation systems
 - Engineering system design
+- physical simulations
 
 ---
 
