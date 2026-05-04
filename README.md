@@ -1,10 +1,11 @@
 # About me
 
-**Engineering × Innovation Systems × State Capacity**
-
 Mechanical engineering student interested in the relationship between  **technology, talent allocation, and national innovation capacity**.
 
-My work combines engineering implementation with research on how **elite human capital structures influence technological competitiveness.**
+Now I have 3 main fields:
+ - Mechanical Engineering study
+ - Economics research (Talent Allocation)
+ - System development at my clam-school
 
 ---
 
