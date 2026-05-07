@@ -1,95 +1,133 @@
-# About me
+# About Me
 
-Mechanical engineering student interested in the relationship between  **technology, talent allocation, and national innovation capacity**.
+Mechanical engineering student working on automation, simulation, and innovation systems.  
+Interested in how technology and talent allocation shape national innovation capacity.
 
-Now I have 3 main fields:
- - Mechanical Engineering study
- - Economics research (Talent Allocation)
- - System development at my clam-school
+Current focus areas:
+- Mechanical engineering
+- Economics research on talent allocation
+- Educational system development
 
 ---
 
 # Fields
 
-### **Primary Field**: Mechanical Engineering
+## Primary Field: Mechanical Engineering
 
 Focus areas:
 - Robotics and automation
 - Control systems
-- Fluid Dynamics and simulation (CFE)
+- Fluid dynamics and simulation
+- Engineering system design
 
-### **Secondary Field**: Innovation Economics / Talent Allocation
+---
+
+## Secondary Field: Innovation Economics / Talent Allocation
 
 Research interests:
-- Technological capability of nations
-- Elite human capital allocation
-- Institutional structures that shape innovation systems
+- Technological capability and industrial competitiveness
+- Engineering talent distribution
+- Innovation systems and institutional design
+- Technology policy and long-term innovation capacity
 
 ---
 
 # Research
-## Mechanical Enginerring
-Hasn't started yet but interested in robot control or Fuluid dynamics simulation.
+
+## Mechanical Engineering
+
+Currently exploring:
+- Robot control systems
+- Automation technologies
+- Fluid dynamics simulation
+- Numerical and computational approaches for engineering problems
+
+---
 
 ## Economics
-My research focuses on how the **career allocation of top human capital** affects long-term national technological capability.
+
+My research focuses on how the career allocation of highly skilled human capital affects long-term technological and industrial development.
 
 Key themes include:
-
 - Talent allocation and innovation systems
-- STEM representation in decision-making elites
-- Institutional dynamics affecting technological competitiveness
+- STEM workforce and technological competitiveness
+- Institutional dynamics shaping national innovation capacity
+- Relationship between engineering capability and economic growth
+
+Current activities:
+- Web scraping and data collection using Python
+- Data analysis and exploratory modeling
+- Studying institutional and economic structures related to innovation
 
 ---
 
-## Projects
+# Projects
 
-### Agricultural Automation (Experimental)
+## Agricultural Automation (Experimental)
 
-Small-scale experimentation in agricultural automation.
+Small-scale experimentation in agricultural automation and rural operational systems.
 
-Current activities include:
+Current activities:
 - Home-scale farming experiments
-- Observing terrain and operational constraints in Japanese agriculture
+- Observing operational constraints in Japanese agriculture
 - Exploring automation concepts for small and irregular farmland
-- Interested in utilizing abandoned farmland especially in mountainous area
+- Investigating potential uses of abandoned farmland in mountainous regions
 
 ---
 
-### Education System Development
+## Education System Development
 
-Development of tools to improve educational operations.
-Currently chief engineer of projects at my clam-school.
+Development of internal tools to improve educational operations at a cram school.
+
+Currently leading internal system development projects.
 
 Main components:
 - Curriculum and schedule management systems
 - Student progress tracking
+- Workflow automation
+- Report and information management systems
+
+Technologies used:
+- JavaScript
+- Google Apps Script
+- Google Workspace integration
 
 ---
 
-## Technical Skills
+# Technical Skills
 
 - Python
-- javascript
-- Data analysis
-- Automation systems
-- Engineering system design
-- physical simulations
+  - Data analysis
+  - Web scraping
+  - Automation scripts
+
+- JavaScript / Google Apps Script
+  - Workflow automation
+  - Internal tool development
+  - Google service integration
+
+- Engineering and Systems
+  - Automation systems
+  - Numerical simulation
+  - Data processing and visualization
+  - Engineering system design
 
 ---
 
-## Current Focus
+# Current Focus
 
-- Engineering implementation
-- Research on innovation systems
+- Engineering implementation and prototyping
+- Automation and operational systems
+- Research on innovation systems and talent allocation
 - Technology and institutional structures
 
 ---
 
-## Contact
+# Contact
 
 Open to discussions related to:
-
 - Engineering systems
-- Innovation and technological policy
 - Automation and applied technology
+- Innovation and technology policy
+- Educational system development
+- Industrial and technological competitiveness
